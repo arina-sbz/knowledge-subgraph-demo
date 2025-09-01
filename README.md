@@ -1,1 +1,2 @@
 # knowledge-subgraph-demo
+This visualization shows a 200-node subsample of the knowledge graph constructed from SNOMED CT, ICD-10-CM, ICD-10-PCS, and ATC vocabularies in UMLS. Each node corresponds to a medical concept (CUI), and edges represent semantic relationships between concepts. The purpose of this visualization is to provide an intuitive overview of the graph structure prior to training the Knowledge Graph Embedding (KGE) model.
